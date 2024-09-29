@@ -1,0 +1,13 @@
+#1st program
+from operator import floordiv, truediv
+
+print(9**0.5*5)
+
+#2st program
+print(9.99>9.98 and 1000!=1000.1)
+
+#3st program
+print(2*2+2, 2*(2+2), 2*2+2==2*(2+2))
+
+#4st program
+print('123.456', float('123.456')*10, int(1234.56%10))
