@@ -1,6 +1,4 @@
 #1st program
-from operator import floordiv, truediv
-
 print(9**0.5*5)
 
 #2st program
